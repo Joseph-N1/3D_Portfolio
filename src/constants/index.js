@@ -218,7 +218,7 @@ export const projects = [
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'UI WORLD',
-        description: 'Created and designed multiple UI elements that can be used in other projects by ensuring the source code is opensourse, highly customizable , and adding features such as light mode and dark mode to most desgins.',
+        description: 'Created and designed multiple UI elements that can be used in other projects by ensuring the source code is opensourse, highly customizable , and adding features such as light mode and dark mode and rotation to most desgins to increase customer engagament.',
         link: 'https://github.com/Joseph-N1/UI-WORLD',
     },
     {
