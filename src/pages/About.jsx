@@ -13,7 +13,7 @@ const About = () => {
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>Software Engineer based in Nigeria, specializing in chatbot integration, 3-D portfolio creation, ML model enthusiast, Front-end animation designer, and python based project developer. With a strong foundation in Aerospace knowledge.</p>
+        <p>Software Engineer based in Nigeria, specializing in chatbot integration, 3-D portfolio creation, ML model enthusiast, Front-end animation designer, and python based project developer. With a strong foundation in Engineering principles focusing mainly on Aerospace materials and Avaiation .</p>
       </div>
 
       <div className='py-10 flex flex-col'>
