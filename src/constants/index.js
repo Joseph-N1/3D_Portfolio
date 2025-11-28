@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets_3d_portfolio/assets/images";
+import { meta, shopify, starbucks, tesla, Poultry } from "../assets_3d_portfolio/assets/images";
 import {
     car,
     contact,
@@ -23,7 +23,7 @@ import {
     typescript,
     mimo,
     contra,
-    Bright
+    Bright,
 } from "../assets_3d_portfolio/assets/icons";
 
 export const skills = [
@@ -178,6 +178,27 @@ export const experiences = [
             "Planned future enhancements, including developing a graphical user interface (GUI) using Tkinter or web-based technologies to make the interaction more user-friendly and visually appealing.",
         ],
     },
+    {
+        title: "IT Hacks 25",
+        company_name: "DevPost",
+        icon: Poultry, 
+        iconBg: "#FFCC00",
+        date: "September 2025 - December 2025",
+        points: [
+            "Developed as part of a competitive hackathon project focused on agricultural innovation.",
+            "Built a Next.js frontend with responsive dashboards, data visualization, offline caching, and multi-language support.",
+            "Implemented CSV upload pipeline with previews, validation, error handling, and file history views.",
+            "Integrated FastAPI backend for data processing, analytics computation, and ML-based predictions.",
+            "Added PDF, JSON, and Excel export options for reports and analytics summaries.",
+            "Created date-range filtering, weekly aggregation summaries, and trend indicators for performance monitoring.",
+            "Implemented AI inference endpoints providing feed recommendations, weight forecasts, and anomaly detection.",
+            "Developed auto-training pipeline that retrains the ML model whenever a new dataset is uploaded.",
+            "Designed a modern UI with TailwindCSS, glassmorphism, flexbox, animations, and interactive charts.",
+            "Dockerized the full application with two containers (frontend + backend), shared volumes, and hot reload.",
+            "Documented the entire multi-phase development lifecycle including core features, AI enhancements, UX upgrades, and future roadmap.",
+            "Implemented PWA structure with service worker, offline support, caching strategy, and installation capability.",
+        ],
+    }
 ];
 
 export const socialLinks = [

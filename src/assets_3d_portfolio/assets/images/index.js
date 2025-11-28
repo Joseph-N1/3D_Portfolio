@@ -6,6 +6,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import mimo from './mimo.png'
 import Bright from './Bright.png'
+import Poultry from './Poultry.png'
 
 export {
     hero,
@@ -15,5 +16,6 @@ export {
     tesla,
     logo,
     mimo,
-    Bright
+    Bright,
+    Poultry
 }
